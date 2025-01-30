@@ -2,7 +2,7 @@
 #include <stdbool.h> // Para usar Bool
 
 // Desafio Super Trunfo - Países
-// Tema 1 - Cadastro das Cartas
+// Desafio nível Mestre
 
 // O sistema é extremamente simples, e só atende ao necessário
 
